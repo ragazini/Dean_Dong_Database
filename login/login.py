@@ -1,3 +1,6 @@
+# This is a program that will be asking users for their credentials. If the info entered is in the "database", the program will spit out the database itself and then clear the screen/close the program after 2 seconds. If the user isn't found, the program will prompt a msg to try again a few more times before forcing user to either register or exit.
+
+
 import random
 import string
 import time
